@@ -3,15 +3,15 @@
 QA Automation Engineer focused on web testing, API testing, and software quality.
 
 - Based in Berlin, Germany
-- MSc Computer Engineering student at TU Berlin
-- Experience in Playwright, Selenium, Postman, Python, JavaScript, and SQL
+- M.Sc. Computer Engineering student at TU Berlin
+- Experience with Playwright, Selenium, Postman, Python, JavaScript, and SQL
 - Currently working on LLM-based test generation for software testing
 
 ## About Me
 
 I have hands-on experience in software test automation and quality assurance, with a focus on building reliable automated tests for web applications and APIs.
 
-My current master's thesis explores how Large Language Models and multi-agent approaches can be used to generate software tests automatically and improve testing efficiency.
+My current master’s thesis explores how Large Language Models and multi-agent approaches can be used to generate software tests automatically and improve testing efficiency.
 
 I’m especially interested in:
 - Test automation for web applications
@@ -22,33 +22,35 @@ I’m especially interested in:
 
 ## Tech Stack
 
-**Testing & QA**  
+### Testing & QA
 Playwright, Selenium, Robot Framework, Postman
 
-**Programming**  
+### Programming
 Python, JavaScript, Java, SQL
 
-**Web & Tools**  
+### Web & Tools
 HTML, CSS, React, Git, Docker, SAP
 
-**Other Areas**  
+### Other Areas
 LLMs, RAG, Multi-Agent Systems, Test Strategy, Agile/Scrum
 
 ## Featured Projects
 
-### Playwright UI Testing Demo
+### [Playwright UI Testing Demo](https://github.com/anshi43/playwright-ui-testing-demo)
 End-to-end automated tests for a sample web application using Playwright.
 
-### API Testing Demo
-API test collection and validation workflow using Postman and Python.
+### [Python API Testing Framework](https://github.com/anshi43/python-api-testing-framework)
+API test automation framework using Python, pytest, requests, and GitHub Actions.
 
-### LLM Test Generation Demo
+### [LLM Test Case Generator Demo](https://github.com/anshi43/llm-test-case-generator-demo)
 Prototype project inspired by my master’s thesis on automated software test generation with LLMs.
+
+Live app: https://llm-test-case-generator-demo-hgufl7mvxd3sxcjxcee5x5.streamlit.app/
 
 ## Experience Highlights
 
 - Master’s thesis on evaluating LLMs for software testing
-- 2 years of experience as a working student in software test automation
+- 2+ years of experience in software test automation
 - Automated testing with Selenium and Playwright
 - API testing with Postman
 - Experience with SAP-based payment process testing
@@ -61,9 +63,9 @@ Prototype project inspired by my master’s thesis on automated software test ge
 
 ## Contact
 
-- Email: mavaniankit09@gmail.com
-- LinkedIn: https://www.linkedin.com/in/ankitmavani/
-- Portfolio: add-your-portfolio-link-here
+- Email: [mavaniankit09@gmail.com](mailto:mavaniankit09@gmail.com)
+- LinkedIn: [ankitmavani](https://www.linkedin.com/in/ankitmavani/)
+- GitHub: [anshi43](https://github.com/anshi43)
 
 ## Current Goal
 
