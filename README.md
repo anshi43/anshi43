@@ -36,12 +36,10 @@ LLMs, RAG, Multi-Agent Systems, Test Strategy, Agile/Scrum
 
 ## Featured Projects
 
-### [Playwright UI Testing Demo]
-https://github.com/anshi43/playwright-ui-testing-demo
+### [Playwright UI Testing Demo](https://github.com/anshi43/playwright-ui-testing-demo)
 End-to-end automated tests for a sample web application using Playwright.
 
-### [Python API Testing Framework]
-https://github.com/anshi43/python-api-testing-framework
+### [Python API Testing Framework](https://github.com/anshi43/python-api-testing-framework)
 API test automation framework using Python, pytest, requests, and GitHub Actions.
 
 ### [LLM Test Case Generator Demo](https://github.com/anshi43/llm-test-case-generator-demo)
