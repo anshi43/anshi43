@@ -45,7 +45,7 @@ API test automation framework using Python, pytest, requests, and GitHub Actions
 ### [LLM Test Case Generator Demo](https://github.com/anshi43/llm-test-case-generator-demo)
 Prototype project inspired by my master’s thesis on automated software test generation with LLMs.
 
-Live app: https://llm-test-case-generator-demo-hgufl7mvxd3sxcjxcee5x5.streamlit.app/
+Live app: https://llm-test-case-generator-demo-mpjypw43af6gzh3nygvkvj.streamlit.app/
 
 ## Experience Highlights
 
