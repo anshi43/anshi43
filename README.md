@@ -1,77 +1,18 @@
-# Hi, I'm Ankit Mavani
+# 💫 About Me:
+# Hi, I'm Ankit Mavani<br><br>QA Automation Engineer focused on web testing, API testing, and software quality.<br><br>- Based in Berlin, Germany<br>- M.Sc. Computer Engineering student at TU Berlin<br>- Experience with Playwright, Selenium, Postman, Python, JavaScript, and SQL<br>- Currently working on LLM-based test generation for software testing<br><br>## About Me<br><br>I have hands-on experience in software test automation and quality assurance, with a focus on building reliable automated tests for web applications and APIs.<br><br>My current master’s thesis explores how Large Language Models and multi-agent approaches can be used to generate software tests automatically and improve testing efficiency.<br><br>I’m especially interested in:<br>- Test automation for web applications<br>- API testing and validation<br>- Python-based QA tooling<br>- LLMs for software testing<br>- Software quality in agile teams<br><br>## Tech Stack<br><br>### Testing & QA<br>Playwright, Selenium, Robot Framework, Postman<br><br>### Programming<br>Python, JavaScript, Java, SQL<br><br>### Web & Tools<br>HTML, CSS, React, Git, Docker, SAP<br><br>### Other Areas<br>LLMs, RAG, Multi-Agent Systems, Test Strategy, Agile/Scrum<br><br>## Featured Projects<br><br>### [Playwright UI Testing Demo](https://github.com/anshi43/playwright-ui-testing-demo)<br>End-to-end automated tests for a sample web application using Playwright.<br><br>### [Python API Testing Framework](https://github.com/anshi43/python-api-testing-framework)<br>API test automation framework using Python, pytest, requests, and GitHub Actions.<br><br>### [LLM Test Case Generator Demo](https://github.com/anshi43/llm-test-case-generator-demo)<br>Prototype project inspired by my master’s thesis on automated software test generation with LLMs.<br><br>Live app: https://llm-test-case-generator-demo-mpjypw43af6gzh3nygvkvj.streamlit.app/<br><br>## Experience Highlights<br><br>- Master’s thesis on evaluating LLMs for software testing<br>- 2+ years of experience in software test automation<br>- Automated testing with Selenium and Playwright<br>- API testing with Postman<br>- Experience with SAP-based payment process testing<br>- Background in IoT, OPC UA, Python, and technical documentation<br><br>## Education<br><br>- **M.Sc. Computer Engineering** – Technische Universität Berlin<br>- **B.Eng. Automatisierungstechnik** – Technische Hochschule Wildau<br><br>## Contact<br><br>- Email: [mavaniankit09@gmail.com](mailto:mavaniankit09@gmail.com)<br>- LinkedIn: [ankitmavani](https://www.linkedin.com/in/ankitmavani/)<br>- GitHub: [anshi43](https://github.com/anshi43)<br><br>## Current Goal<br><br>I’m looking for opportunities in:<br>- QA Automation Engineering<br>- Software Testing<br>- Software Quality Assurance<br>- Test Engineering<br>- AI-assisted software testing<br>
 
-QA Automation Engineer focused on web testing, API testing, and software quality.
 
-- Based in Berlin, Germany
-- M.Sc. Computer Engineering student at TU Berlin
-- Experience with Playwright, Selenium, Postman, Python, JavaScript, and SQL
-- Currently working on LLM-based test generation for software testing
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ankitmavani/) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Ankit Haresh Mavani) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mavaniankit09@gmail.com) 
 
-## About Me
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=anshi43&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=anshi43&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=anshi43&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-I have hands-on experience in software test automation and quality assurance, with a focus on building reliable automated tests for web applications and APIs.
+---
+[![](https://komarev.com/ghpvc/?username=anshi43&icon=0&color=0)](https://visitcount.itsvg.in)
 
-My current master’s thesis explores how Large Language Models and multi-agent approaches can be used to generate software tests automatically and improve testing efficiency.
-
-I’m especially interested in:
-- Test automation for web applications
-- API testing and validation
-- Python-based QA tooling
-- LLMs for software testing
-- Software quality in agile teams
-
-## Tech Stack
-
-### Testing & QA
-Playwright, Selenium, Robot Framework, Postman
-
-### Programming
-Python, JavaScript, Java, SQL
-
-### Web & Tools
-HTML, CSS, React, Git, Docker, SAP
-
-### Other Areas
-LLMs, RAG, Multi-Agent Systems, Test Strategy, Agile/Scrum
-
-## Featured Projects
-
-### [Playwright UI Testing Demo](https://github.com/anshi43/playwright-ui-testing-demo)
-End-to-end automated tests for a sample web application using Playwright.
-
-### [Python API Testing Framework](https://github.com/anshi43/python-api-testing-framework)
-API test automation framework using Python, pytest, requests, and GitHub Actions.
-
-### [LLM Test Case Generator Demo](https://github.com/anshi43/llm-test-case-generator-demo)
-Prototype project inspired by my master’s thesis on automated software test generation with LLMs.
-
-Live app: https://llm-test-case-generator-demo-mpjypw43af6gzh3nygvkvj.streamlit.app/
-
-## Experience Highlights
-
-- Master’s thesis on evaluating LLMs for software testing
-- 2+ years of experience in software test automation
-- Automated testing with Selenium and Playwright
-- API testing with Postman
-- Experience with SAP-based payment process testing
-- Background in IoT, OPC UA, Python, and technical documentation
-
-## Education
-
-- **M.Sc. Computer Engineering** – Technische Universität Berlin
-- **B.Eng. Automatisierungstechnik** – Technische Hochschule Wildau
-
-## Contact
-
-- Email: [mavaniankit09@gmail.com](mailto:mavaniankit09@gmail.com)
-- LinkedIn: [ankitmavani](https://www.linkedin.com/in/ankitmavani/)
-- GitHub: [anshi43](https://github.com/anshi43)
-
-## Current Goal
-
-I’m looking for opportunities in:
-- QA Automation Engineering
-- Software Testing
-- Software Quality Assurance
-- Test Engineering
-- AI-assisted software testing
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
